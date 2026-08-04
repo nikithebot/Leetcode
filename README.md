@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikithebot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikithebot/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nikithebot/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
