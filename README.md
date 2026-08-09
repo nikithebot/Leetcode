@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nikithebot/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikithebot/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
