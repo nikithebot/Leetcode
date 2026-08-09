@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikithebot/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nikithebot/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nikithebot/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -82,10 +84,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nikithebot/Leetcode/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
