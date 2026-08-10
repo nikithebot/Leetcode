@@ -16,10 +16,12 @@ public:
             }
 
             for(int j=ecol-1; j>=scol; j--){
+                if(srow==erow) break;
                 ans[erow][j] = num++;
             }
 
             for(int i=erow-1; i>=srow+1; i--){
+                if(scol==ecol) break;
                 ans[i][scol] = num++;
             }
 
