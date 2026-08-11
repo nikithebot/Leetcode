@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikithebot/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikithebot/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nikithebot/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/nikithebot/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/nikithebot/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nikithebot/Leetcode/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikithebot/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikithebot/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
