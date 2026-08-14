@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //even odd even odd even odd...
     int singleNonDuplicate(vector<int>& nums) {
         int n = nums.size();
         if(nums.size()==1) return nums[0];
