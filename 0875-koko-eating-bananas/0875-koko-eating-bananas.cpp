@@ -3,7 +3,7 @@ public:
     long long hours(vector<int>&piles, int speed){
         long long time=0;
         for(auto bananas : piles){
-            time += (1LL*bananas+(long long)speed-1)/speed;
+            time += (1LL*bananas+speed-1)/speed;
         }
         return time;
     }
