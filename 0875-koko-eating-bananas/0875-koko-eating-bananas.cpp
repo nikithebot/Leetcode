@@ -8,7 +8,7 @@ public:
         return time;
     }
 
-    int minEatingSpeed(vector<int>& piles, int h) {
+    int minEatingSpeed(vector<int>& piles, int h){
         int n = piles.size();
         int low=1, high=*max_element(piles.begin(),piles.end());
         int ans = high;
