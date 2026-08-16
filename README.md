@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/nikithebot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikithebot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikithebot/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Two Pointers
 |  |
