@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nikithebot/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nikithebot/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nikithebot/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikithebot/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/nikithebot/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nikithebot/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
