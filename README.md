@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikithebot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikithebot/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nikithebot/Leetcode/tree/master/0283-move-zeroes) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nikithebot/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikithebot/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nikithebot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
