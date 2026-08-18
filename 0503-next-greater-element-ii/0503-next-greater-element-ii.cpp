@@ -6,17 +6,16 @@ public:
         stack<int> st;
 
         for(int i=2*n-1; i>=0; i--){
-            int curr = nums[i%n];
-
-            while(!st.empty() && st.top()<=curr){
+            while(!st.empty() && st.top()<=nums[i%n]){
                 st.pop();
             }
-            if(i<n && !st.empty()){
-                ans[i] = st.top();
-            }
-            st.push(curr);
-        }
 
+            //for valid index...
+            if(!st.empty()){
+                ans[i%n] = st.top();
+            }
+            st.push(nums[i%n]);
+        }
         return ans;
     }
 };
