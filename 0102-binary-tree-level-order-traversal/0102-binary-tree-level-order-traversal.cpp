@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    vector<vector<int>> levelOrder(TreeNode* root){
+    vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> ans;
         if(root==NULL) return ans;
 
