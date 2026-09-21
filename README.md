@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikithebot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/nikithebot/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nikithebot/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikithebot/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nikithebot/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nikithebot/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikithebot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/nikithebot/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
