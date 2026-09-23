@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikithebot/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/nikithebot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nikithebot/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikithebot/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nikithebot/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikithebot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nikithebot/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0229-majority-element-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nikithebot/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
