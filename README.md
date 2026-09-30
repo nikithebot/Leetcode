@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikithebot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikithebot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikithebot/Leetcode/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/nikithebot/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nikithebot/Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikithebot/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/nikithebot/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nikithebot/Leetcode/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nikithebot/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
