@@ -6,18 +6,12 @@ public:
 
         stack<int> st;
         for(int i=n-1; i>=0; i--){
-            if(st.empty()){
-                nge[i] = -1;
-            }else{
-                while(!st.empty() && st.top()<=nums2[i]){
-                    st.pop();
-                }
-                
-                if(!st.empty()){
-                    nge[i] = st.top();
-                }else{
-                    nge[i] = -1;
-                }
+            while(!st.empty() && st.top()<=nums2[i]){
+                st.pop();
+            }
+
+            if(!st.empty()){
+                nge[i] = st.top();
             }
 
             st.push(nums2[i]);
