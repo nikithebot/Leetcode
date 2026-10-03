@@ -5,15 +5,15 @@ public:
             return 1;
         }
 
-        if(dp[n]!=0){
+        if(dp[n] != -1){
             return dp[n];
         }
 
-        return dp[n] = ways(n-1,dp)+ways(n-2,dp);
+        return dp[n] = ways(n-1,dp) + ways(n-2,dp);
     }
 
     int climbStairs(int n){
-        vector<int> dp(n+1,0);
+        vector<int> dp(n+1, -1);
         return ways(n,dp);
     }
 };
