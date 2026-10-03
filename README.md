@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikithebot/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikithebot/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3693-climbing-stairs-ii](https://github.com/nikithebot/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikithebot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nikithebot/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/nikithebot/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3693-climbing-stairs-ii](https://github.com/nikithebot/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
