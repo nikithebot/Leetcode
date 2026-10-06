@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikithebot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikithebot/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/nikithebot/Leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikithebot/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/nikithebot/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikithebot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/nikithebot/Leetcode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3894-traffic-signal-color](https://github.com/nikithebot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Matrix
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikithebot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/nikithebot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/nikithebot/Leetcode/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikithebot/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
