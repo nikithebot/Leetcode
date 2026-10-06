@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikithebot/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/nikithebot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/nikithebot/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikithebot/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/nikithebot/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikithebot/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/nikithebot/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nikithebot/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3693-climbing-stairs-ii](https://github.com/nikithebot/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/nikithebot/Leetcode/tree/master/3731-find-missing-elements) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nikithebot/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/nikithebot/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Quicksort
 |  |
 | ------- |
