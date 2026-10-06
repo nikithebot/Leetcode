@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikithebot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikithebot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikithebot/Leetcode/tree/master/0242-valid-anagram) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikithebot/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/nikithebot/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikithebot/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
@@ -231,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikithebot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/nikithebot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikithebot/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikithebot/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikithebot/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikithebot/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
