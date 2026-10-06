@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikithebot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/nikithebot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/nikithebot/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/nikithebot/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3894-traffic-signal-color](https://github.com/nikithebot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nikithebot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3894-traffic-signal-color](https://github.com/nikithebot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
 | ------- |
