@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikithebot/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/nikithebot/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikithebot/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/nikithebot/Leetcode/tree/master/3360-stone-removal-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikithebot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/nikithebot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Recursion
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nikithebot/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/nikithebot/Leetcode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nikithebot/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/nikithebot/Leetcode/tree/master/3360-stone-removal-game) |
 | [3894-traffic-signal-color](https://github.com/nikithebot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
